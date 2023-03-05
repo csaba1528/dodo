@@ -1,0 +1,55 @@
+article{
+   
+    font-size: 18px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+.first-picture{
+    width: 450px;
+    border: 1px solid black;
+    margin: 20px 100px 10px 200px;
+    border-radius: 2%;
+}
+h2{
+    font-size: 30px;
+    text-decoration-line:underline;
+    margin: 40px 200px 2px 20px;
+}
+
+.picture-size{
+    width: 400px;
+}
+
+.text-align{
+    margin: 1px 100px 10px 250px; 
+}
+
+.first-paragraph::first-letter {
+    font-family: "Times New Roman", cursive;
+    font-size: 40px;
+}
+.second-page{
+    display: inline;
+    font-size: 28px;
+    background-color: rgb(177, 116, 233);
+}
+
+a{
+    counter-reset: blue;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.first-paragraph{
+    font-size: 18px;   
+}
+
+article p{
+    color: rgba(2, 15, 15, 0.8);
+}
